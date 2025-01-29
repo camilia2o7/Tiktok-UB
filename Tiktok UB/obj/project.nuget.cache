@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZB5Z5EDe7mk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sexyc\\Downloads\\Tiktok-UB\\Tiktok-UB\\Tiktok UB\\Tiktok UB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sexyc\\.nuget\\packages\\selenium.webdriver\\4.28.0\\selenium.webdriver.4.28.0.nupkg.sha512",
+    "C:\\Users\\sexyc\\.nuget\\packages\\selenium.webdriver.chromedriver\\132.0.6834.11000\\selenium.webdriver.chromedriver.132.0.6834.11000.nupkg.sha512",
+    "C:\\Users\\sexyc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sexyc\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\sexyc\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
